@@ -17,4 +17,3 @@ USER usersetup
 
 ENV PATH="/opt/venv/bin:$PATH"
 
-WORKDIR /workdir
